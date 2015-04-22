@@ -1,2 +1,0 @@
-# vim
-save vim conf
